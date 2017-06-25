@@ -98,3 +98,6 @@ zhan 		意义不大
 
 stations表，和metro_stations表，结构一样
 ```
+
+
+![image](https://github.com/aquarius520/simple-8684-client/blob/master/screenshots/query_lines.png?raw=true)
